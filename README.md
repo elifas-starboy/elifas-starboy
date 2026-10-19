@@ -26,16 +26,9 @@ I enjoy building practical applications and learning how frontend, backend, data
 - CRUD Operations
 - JDBC
 
-### Mobile Development
-- Android Development
-- Kotlin
-- Jetpack Compose
-- MVVM Architecture
-
 ### Tools and Technologies
 - Git
 - GitHub
-- Android Studio
 - IntelliJ IDEA
 - Visual Studio Code
 
@@ -43,7 +36,7 @@ I enjoy building practical applications and learning how frontend, backend, data
 
 ### Food Store
 
-A command-line food store application built with Java and MySQL. The application allows users to view food products, select items, manage purchases, and store or retrieve information from a relational database.
+A food store application built with Java and MySQL. The application allows users to view food products, select items, manage purchases, and store or retrieve information from a relational database.
 
 **Technologies used:**
 - Java
@@ -64,17 +57,15 @@ A static social media interface created to practise frontend web development and
 
 ## Currently Learning
 
-- Advanced Java
-- Database-driven application development
 - React
 - TypeScript
-- Spring Boot
-- REST API Development
+- Tailwind
+- NextJS
 
 ## My Goals
 
 - Secure a software development internship.
-- Improve my backend development skills.
+- Improve my frontend development skills.
 - Build and deploy full-stack applications.
 - Develop reliable and maintainable software.
 - Gain practical experience working in a professional development team.
